@@ -13,7 +13,7 @@ export default function Home() {
       
       {/* Start Landing Page */}
       <div className="landing-page">
-        <Header/>
+        {/* <Header/>p */}
        
         
         <div className="content flex items-center justify-between min-h-[calc(100vh-80px)] p-4 container mx-auto md:flex-row flex-col gap-[140px] md:gap-0 md:justify-between">
